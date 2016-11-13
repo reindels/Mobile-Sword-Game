@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Menu Project.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menu.cs">
+    <Files>
+      <File FileName="Assets\Menu.cs" Line="18" Column="45" />
+      <File FileName="Assets\MenuManager.cs" Line="17" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
